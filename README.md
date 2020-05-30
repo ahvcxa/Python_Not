@@ -1,2 +1,2 @@
-# deneme
-sss
+# PYTHON NOTLARI
+Burada python notlarım yer alıyor...
